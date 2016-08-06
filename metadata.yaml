@@ -1,0 +1,31 @@
+_repo: Utilitarianism_11224
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mill, John Stuart
+    alias: Mill, J. S. (John Stuart)
+    birthdate: 1806
+    deathdate: 1873
+    gutenberg_agent_id: '1705'
+    url: http://www.gutenberg.org/2009/agents/1705
+    wikipedia: http://en.wikipedia.org/wiki/John_Stuart_Mill
+description: Go to top; Chapter I. General Remarks; Chapter II. What Utilitarianism
+  Is; Chapter III. Of the Ultimate Sanction of the Principle of Utility; Chapter IV.
+  Of What Sort of Proof the Principle of Utility Is Susceptible; Chapter V. Of the
+  Connexion Between Justice and Utility; D; C; [Footnote D:; [Footnote C:; B; A; [Footnote
+  B:; [Footnote A:; John Stuart Mill Biography.
+gutenberg_bookshelf: Philosophy
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11224'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'Utilitarianism'
+- GITenberg
+title: Utilitarianism
+url: http://www.gutenberg.org/ebooks/11224
