@@ -1,7 +1,7 @@
 = Utilitarianism
 
 By John Stuart Mill +
-Reprinted From "Fraser's Magazine" +
+Reprinted From "`Fraser's Magazine`" +
 Seventh Edition +
 London +
 Longmans, Green, And Co. +
@@ -122,9 +122,9 @@ illustrious of them, the _Metaphysics of Ethics_, by Kant. This
 remarkable man, whose system of thought will long remain one of the
 landmarks in the history of philosophical speculation, does, in the
 treatise in question, lay down an universal first principle as the
-origin and ground of moral obligation; it is this:--'So act, that the
+origin and ground of moral obligation; it is this:--'`So act, that the
 rule on which thou actest would admit of being adopted as a law by all
-rational beings.' But when he begins to deduce from this precept any of
+rational beings.`' But when he begins to deduce from this precept any of
 the actual duties of morality, he fails, almost grotesquely, to show
 that there would be any contradiction, any logical (not to say
 physical) impossibility, in the adoption by all rational beings of the
@@ -188,10 +188,10 @@ misconception; which is the more extraordinary, inasmuch as the contrary
 accusation, of referring everything to pleasure, and that too in its
 grossest form, is another of the common charges against utilitarianism:
 and, as has been pointedly remarked by an able writer, the same sort of
-persons, and often the very same persons, denounce the theory "as
+persons, and often the very same persons, denounce the theory "`as
 impracticably dry when the word utility precedes the word pleasure, and
 as too practicably voluptuous when the word pleasure precedes the word
-utility." Those who know anything about the matter are aware that every
+utility.`" Those who know anything about the matter are aware that every
 writer, from Epicurus to Bentham, who maintained the theory of utility,
 meant by it, not something to be contradistinguished from pleasure, but
 pleasure itself, together with exemption from pain; and instead of
@@ -654,7 +654,7 @@ agent. He who saves a fellow creature from drowning does what is morally
 right, whether his motive be duty, or the hope of being paid for his
 trouble: he who betrays the friend that trusts him, is guilty of a
 crime, even if his object be to serve another friend to whom he is under
-greater obligations.footnote:[An opponent, whose intellectual and moral fairness it is a pleasure to acknowledge (the Rev. J. Llewellyn Davis), has objected to this passage, saying, "Surely the rightness or wrongness of saving a man from drowning does depend very much upon the motive with which it is done. Suppose that a tyrant, when his enemy jumped into the sea to escape from him, saved him from drowning simply in order that he might inflict upon him more exquisite tortures, would it tend to clearness to speak of that rescue as 'a morally right action?' Or suppose again, according to one of the stock illustrations of ethical inquiries, that a man betrayed a trust received from a friend, because the discharge of it would fatally injure that friend himself or some one belonging to him, would utilitarianism compel one to call the betrayal 'a crime' as much as if it had been done from the meanest motive?" I submit, that he who saves another from drowning in order to kill him by torture afterwards, does not differ only in motive from him who does the same thing from duty or benevolence; the act itself is different. The rescue of the man is, in the case supposed, only the necessary first step of an act far more atrocious than leaving him to drown would have been. Had Mr. Davis said, "The rightness or wrongness of saving a man from drowning does depend very much"--not upon the motive, but--"upon the _intention_" no utilitarian would have differed from him. Mr. Davis, by an oversight too common not to be quite venial, has in this case confounded the very different ideas of Motive and Intention. There is no point which utilitarian thinkers (and Bentham pre-eminently) have taken more pains to illustrate than this. The morality of the action depends entirely upon the intention--that is, upon what the agent _wills to do_. But the motive, that is, the feeling which makes him will so to do, when it makes no difference in the act, makes none in the morality: though it makes a great difference in our moral estimation of the agent, especially if it indicates a good or a bad habitual _disposition_--a bent of character from which useful, or from which hurtful actions are likely to arise.] But to speak only of actions done from the
+greater obligations.footnote:[An opponent, whose intellectual and moral fairness it is a pleasure to acknowledge (the Rev. J. Llewellyn Davis), has objected to this passage, saying, "`Surely the rightness or wrongness of saving a man from drowning does depend very much upon the motive with which it is done. Suppose that a tyrant, when his enemy jumped into the sea to escape from him, saved him from drowning simply in order that he might inflict upon him more exquisite tortures, would it tend to clearness to speak of that rescue as '`a morally right action?`' Or suppose again, according to one of the stock illustrations of ethical inquiries, that a man betrayed a trust received from a friend, because the discharge of it would fatally injure that friend himself or some one belonging to him, would utilitarianism compel one to call the betrayal '`a crime`' as much as if it had been done from the meanest motive?`" I submit, that he who saves another from drowning in order to kill him by torture afterwards, does not differ only in motive from him who does the same thing from duty or benevolence; the act itself is different. The rescue of the man is, in the case supposed, only the necessary first step of an act far more atrocious than leaving him to drown would have been. Had Mr. Davis said, "`The rightness or wrongness of saving a man from drowning does depend very much`"--not upon the motive, but--"`upon the _intention_`" no utilitarian would have differed from him. Mr. Davis, by an oversight too common not to be quite venial, has in this case confounded the very different ideas of Motive and Intention. There is no point which utilitarian thinkers (and Bentham pre-eminently) have taken more pains to illustrate than this. The morality of the action depends entirely upon the intention--that is, upon what the agent _wills to do_. But the motive, that is, the feeling which makes him will so to do, when it makes no difference in the act, makes none in the morality: though it makes a great difference in our moral estimation of the agent, especially if it indicates a good or a bad habitual _disposition_--a bent of character from which useful, or from which hurtful actions are likely to arise.] But to speak only of actions done from the
 motive of duty, and in direct obedience to principle: it is a
 misapprehension of the utilitarian mode of thought, to conceive it as
 implying that people should fix their minds upon so wide a generality as
@@ -1045,7 +1045,7 @@ other rule of morals.
 
 There is, I am aware, a disposition to believe that a person who sees in
 moral obligation a transcendental fact, an objective reality belonging
-to the province of "Things in themselves," is likely to be more obedient
+to the province of "`Things in themselves,`" is likely to be more obedient
 to it than one who believes it to be entirely subjective, having its
 seat in human consciousness only. But whatever a person's opinion may be
 on this point of Ontology, the force he is really urged by is his own
@@ -1799,7 +1799,7 @@ or disparagement, according as we think that the person ought, or ought
 not, to be punished for it; and we say that it would be right to do so
 and so, or merely that it would be desirable or laudable, according as
 we would wish to see the person whom it concerns, compelled or only
-persuaded and exhorted, to act in that manner.footnote:[See this point enforced and illustrated by Professor Bain, in an admirable chapter (entitled "The Ethical Emotions, or the Moral Sense") of the second of the two treatises composing his elaborate and profound work on the Mind.]
+persuaded and exhorted, to act in that manner.footnote:[See this point enforced and illustrated by Professor Bain, in an admirable chapter (entitled "`The Ethical Emotions, or the Moral Sense`") of the second of the two treatises composing his elaborate and profound work on the Mind.]
 
 This, therefore, being the characteristic difference which marks off,
 not justice, but morality in general, from the remaining provinces of
@@ -1925,8 +1925,8 @@ feeling this--if he is regarding the act solely as it affects him
 individually--he is not consciously just; he is not concerning himself
 about the justice of his actions. This is admitted even by
 anti-utilitarian moralists. When Kant (as before remarked) propounds as
-the fundamental principle of morals, 'So act, that thy rule of conduct
-might be adopted as a law by all rational beings,' he virtually
+the fundamental principle of morals, '`So act, that thy rule of conduct
+might be adopted as a law by all rational beings,`' he virtually
 acknowledges that the interest of mankind collectively, or at least of
 mankind indiscriminately, must be in the mind of the agent when
 conscientiously deciding on the morality of the act. Otherwise he uses
@@ -2299,9 +2299,9 @@ Greatest-Happiness Principle. That principle is a mere form of words
 without rational signification, unless one person's happiness, supposed
 equal in degree (with the proper allowance made for kind), is counted
 for exactly as much as another's. Those conditions being supplied,
-Bentham's dictum, 'everybody to count for one, nobody for more than
-one,' might be written under the principle of utility as an explanatory
-commentary.footnote:[This implication, in the first principle of the utilitarian scheme, of perfect impartiality between persons, is regarded by Mr. Herbert Spencer (in his _Social Statics_) as a disproof of the pretentions of utility to be a sufficient guide to right; since (he says) the principle of utility presupposes the anterior principle, that everybody has an equal right to happiness. It may be more correctly described as supposing that equal amounts of happiness are equally desirable, whether felt by the same or by different persons. This, however, is not a pre-supposition; not a premise needful to support the principle of utility, but the very principle itself; for what is the principle of utility, if it be not that 'happiness' and 'desirable' are synonymous terms? If there is any anterior principle implied, it can be no other than this, that the truths of arithmetic are applicable to the valuation of happiness, as of all other measurable quantities. Mr. Herbert Spencer, in a private communication on the subject of the preceding Note, objects to being considered an opponent of Utilitarianism; and states that he regards happiness as the ultimate end of morality; but deems that end only partially attainable by empirical generalizations from the observed results of conduct, and completely attainable only by deducing, from the laws of life and the conditions of existence, what kinds of action necessarily tend to produce happiness, and what kinds to produce unhappiness. With the exception of the word "necessarily," I have no dissent to express from this doctrine; and (omitting that word) I am not aware that any modern advocate of utilitarianism is of a different opinion. Bentham, certainly, to whom in the _Social Statics_ Mr. Spencer particularly referred, is, least of all writers, chargeable with unwillingness to deduce the effect of actions on happiness from the laws of human nature and the universal conditions of human life. The common charge against him is of relying too exclusively upon such deductions, and declining altogether to be bound by the generalizations from specific experience which Mr. Spencer thinks that utilitarians generally confine themselves to. My own opinion (and, as I collect, Mr. Spencer's) is, that in ethics, as in all other branches of scientific study, the consilience of the results of both these processes, each corroborating and verifying the other, is requisite to give to any general proposition the kind and degree of evidence which constitutes scientific proof.] The equal claim of everybody to happiness in the
+Bentham's dictum, '`everybody to count for one, nobody for more than
+one,`' might be written under the principle of utility as an explanatory
+commentary.footnote:[This implication, in the first principle of the utilitarian scheme, of perfect impartiality between persons, is regarded by Mr. Herbert Spencer (in his _Social Statics_) as a disproof of the pretentions of utility to be a sufficient guide to right; since (he says) the principle of utility presupposes the anterior principle, that everybody has an equal right to happiness. It may be more correctly described as supposing that equal amounts of happiness are equally desirable, whether felt by the same or by different persons. This, however, is not a pre-supposition; not a premise needful to support the principle of utility, but the very principle itself; for what is the principle of utility, if it be not that '`happiness`' and '`desirable`' are synonymous terms? If there is any anterior principle implied, it can be no other than this, that the truths of arithmetic are applicable to the valuation of happiness, as of all other measurable quantities. Mr. Herbert Spencer, in a private communication on the subject of the preceding Note, objects to being considered an opponent of Utilitarianism; and states that he regards happiness as the ultimate end of morality; but deems that end only partially attainable by empirical generalizations from the observed results of conduct, and completely attainable only by deducing, from the laws of life and the conditions of existence, what kinds of action necessarily tend to produce happiness, and what kinds to produce unhappiness. With the exception of the word "`necessarily,`" I have no dissent to express from this doctrine; and (omitting that word) I am not aware that any modern advocate of utilitarianism is of a different opinion. Bentham, certainly, to whom in the _Social Statics_ Mr. Spencer particularly referred, is, least of all writers, chargeable with unwillingness to deduce the effect of actions on happiness from the laws of human nature and the universal conditions of human life. The common charge against him is of relying too exclusively upon such deductions, and declining altogether to be bound by the generalizations from specific experience which Mr. Spencer thinks that utilitarians generally confine themselves to. My own opinion (and, as I collect, Mr. Spencer's) is, that in ethics, as in all other branches of scientific study, the consilience of the results of both these processes, each corroborating and verifying the other, is requisite to give to any general proposition the kind and degree of evidence which constitutes scientific proof.] The equal claim of everybody to happiness in the
 estimation of the moralist and the legislator, involves an equal claim
 to all the means of happiness, except in so far as the inevitable
 conditions of human life, and the general interest, in which that of
