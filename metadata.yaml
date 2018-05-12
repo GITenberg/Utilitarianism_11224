@@ -1,5 +1,8 @@
 _repo: Utilitarianism_11224
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Mill, John Stuart
@@ -14,6 +17,8 @@ description: Go to top; Chapter I. General Remarks; Chapter II. What Utilitarian
   Of What Sort of Proof the Principle of Utility Is Susceptible; Chapter V. Of the
   Connexion Between Justice and Utility; D; C; [Footnote D:; [Footnote C:; B; A; [Footnote
   B:; [Footnote A:; John Stuart Mill Biography.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11224#Utilitarianism
 gutenberg_bookshelf: Philosophy
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
